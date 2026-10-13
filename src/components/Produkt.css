@@ -1,0 +1,16 @@
+.Produkt-container
+{
+    display: table-column;
+    justify-content: center;
+    align-items: center;
+}
+h1
+{
+    color: yellow;
+    padding: 10px;
+}
+p
+{
+    color:orange;
+    padding: 10px;
+}
