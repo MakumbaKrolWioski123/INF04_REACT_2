@@ -14,3 +14,10 @@ p
     color:orange;
     padding: 10px;
 }
+.Galeria
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+}
