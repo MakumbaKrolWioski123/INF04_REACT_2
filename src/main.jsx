@@ -4,6 +4,7 @@ import './index.css'
 import KartaProduktu from "./components/Produkt.jsx";
 import Galeria from "./components/Galeria.jsx";
 import WyborKoloru from "./components/WyborKoloru.jsx";
+import Formularz from "./components/Formularz.jsx";
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
@@ -11,5 +12,6 @@ createRoot(document.getElementById('root')).render(
       <KartaProduktu />
       <Galeria/>
       <WyborKoloru/>
+      <Formularz/>
   </StrictMode>,
 )
